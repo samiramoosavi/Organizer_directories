@@ -6,4 +6,6 @@ for item_path in dir_path.iterdir():
     print(item_path.is_file())
 
 
+print("commnet")
+
 
